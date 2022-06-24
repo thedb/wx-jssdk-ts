@@ -1,3 +1,2 @@
 import wx from "weixin-js-sdk"
-
-export default wx
+export const WX = wx;
